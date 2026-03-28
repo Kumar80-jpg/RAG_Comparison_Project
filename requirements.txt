@@ -1,0 +1,6 @@
+langchain
+openai
+neo4j
+python-dotenv
+spacy
+faiss-cpu
